@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>631158845329-2asbkppvj5il9n5te296bmq2anr30qbp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.631158845329-2asbkppvj5il9n5te296bmq2anr30qbp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBj5vWj3uX-7y_l-YGQ6bO7_KfDgDDuBLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>631158845329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>so.amie.apple-watch-test.watchkitapp.watchkitextension</string>
+	<key>PROJECT_ID</key>
+	<string>apple-watch-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apple-watch-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:631158845329:ios:25bb8844b6219cb0be7430</string>
+</dict>
+</plist>
